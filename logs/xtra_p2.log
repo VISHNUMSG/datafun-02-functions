@@ -1,0 +1,24 @@
+2023-08-28 21:22:54,626.xtra_p2.INFO ==================================================
+2023-08-28 21:22:54,626.xtra_p2.INFO Today is 2023-08-28 at 09:22 PM
+2023-08-28 21:22:54,673.xtra_p2.INFO Running on: nt Windows 10
+2023-08-28 21:22:54,673.xtra_p2.INFO Python version:  3.11.4
+2023-08-28 21:22:54,673.xtra_p2.INFO Python path: C:\Users\vmaddineni\AppData\Local\Programs\Python\Python311
+2023-08-28 21:22:54,675.xtra_p2.INFO Working dir: C:\Users\vmaddineni\Documents\GitHub\datafun-02-functions
+2023-08-28 21:22:54,675.xtra_p2.INFO ==================================================
+2023-08-28 21:22:54,675.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-28 21:22:54,675.xtra_p2.INFO RETURNING aeb
+2023-08-28 21:22:54,675.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-28 21:22:54,676.xtra_p2.INFO RETURNING aeb
+2023-08-28 21:22:54,676.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-28 21:22:54,676.xtra_p2.INFO RETURNING leh
+2023-08-28 21:22:54,676.xtra_p2.INFO ===========================================================
+2023-08-28 21:22:54,677.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-08-28 21:22:54,677.xtra_p2.INFO ===========================================================
+2023-08-28 21:22:54,691.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-28 21:22:54,692.xtra_p2.INFO RETURNING aeb
+2023-08-28 21:22:54,693.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-28 21:22:54,694.xtra_p2.INFO RETURNING aeb
+2023-08-28 21:22:54,694.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-28 21:22:54,696.xtra_p2.INFO RETURNING leh
+2023-08-28 21:22:54,708.xtra_p2.ERROR 8 tests failed!
+2023-08-28 21:22:54,709.xtra_p2.INFO Script complete. More info in the log file.

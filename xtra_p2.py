@@ -60,8 +60,15 @@ def transform_using_keyword_args_with_default_values(input="bearcat", reverse=Fa
     
     s = f"CALLING transform_using_keyword_args_with_default_values(input={input}, reverse={reverse})"
     logger.info(s)
-
-    result = input
+    rs=''
+    for i in input[0:3]:
+        rs = i + rs
+        #print(i)
+        #print(rs)
+     
+    
+    result = rs[0:3]
+    print(result)
 
     logger.info(f"RETURNING {result}")
     return result
